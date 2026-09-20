@@ -1,5 +1,10 @@
 # wechat-editorial
 
+
+> [!NOTE]
+> 本仓库已归档，维护中的版本在 [xiangrui-toolkit · skills/内容设计/wechat-editorial](https://github.com/xiangruiai/xiangrui-toolkit/tree/main/skills/内容设计/wechat-editorial)。issues 与 PR 请到工具箱提交。
+
+
 万涂幻象正在使用的微信公众号排版 Agent Skill，当前公开版为 v3。
 
 把 Markdown 或 Obsidian 文章转换成可直接复制到微信公众号编辑器的 HTML，支持本地图片 base64 内嵌、封面卡、章节头、三层重点标记、深色代码块、品牌 PNG + GIF 尾卡，以及生成后的确定性合规校验。
@@ -127,7 +132,7 @@ ERROR 必须清零。WARNING 用于人工确认，零 WARNING 不代表排版一
 **北京万涂幻象科技有限公司**：以自研的 Agent 上下文与主体连续性技术为底座，在上面跑着企业 AI 落地、课程与培训、品牌宣传三条业务。技术不空转，每一次业务交付都是对底座的一次真实验证。
 
 - [公司业务最新介绍（飞书）](https://waytoagi.feishu.cn/wiki/EAJkw9JcviTt3UkjoyXcKkLzn1W)
-- [万涂幻象开源工具箱](https://github.com/xiangruiai/vantasma-toolkit)
+- [万涂幻象开源工具箱](https://github.com/xiangruiai/xiangrui-toolkit)
 - 联系：li@xiangruiai.com
 
 ## 微信赞赏
